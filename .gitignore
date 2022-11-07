@@ -1,0 +1,23 @@
+target
+project/target
+project/project/target
+
+# usual suffix for text editors backup files
+*~
+
+# Intellij Idea project files
+.idea
+*.iml
+*.ipr
+*.iws
+
+# project binaries
+build
+out
+classes
+
+# mac os x
+.DS_Store
+
+# generated files
+/.bsp/sbt.json
